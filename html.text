@@ -1,0 +1,6 @@
+ when I run back end  the command firebase serve --only functions :
+ https://youtu.be/agDeRSIMxk4 cloud functions vido
+
+   making date and time better on the web ==npm install moment --save
+ =mangodb 
+ firebase emulators:start to run functions back end
